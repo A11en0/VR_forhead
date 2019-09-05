@@ -179,7 +179,10 @@ a {
 }
 .content .content-inner .content-main .main-div .video-parent {
     margin: 60px auto;
-    width: 600px;
+    width: 850px;
+    height: 1000px;
+    overflow-y: scroll;
+    border: 1px solid #757575;
 }
 .content .content-inner .content-main .main-div .video-parent .video-title {
     margin-bottom: 20px;
@@ -190,6 +193,7 @@ a {
 }
 .content .content-inner .content-main .main-div .video-parent .main-0-v {
     margin-bottom: 20px;
+    margin-left: 100px;
     width: 600px;
     height: 475px;
 }
